@@ -1,4 +1,4 @@
-ios7sb
-======
+iOS 7 SB Headers
+================
 
-iOS 7 SpringBoard Headers
+For personal safe-keeping, feel free to use them as you need.
